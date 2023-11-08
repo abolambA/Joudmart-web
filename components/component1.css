@@ -1,0 +1,46 @@
+.component1-container {
+  width: 223px;
+  height: 68px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: var(--dl-color-pallet-purple);
+  border-width: 1px;
+  padding-left: 4px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: 9px;
+  justify-content: center;
+}
+.component1-button {
+  color: var(--dl-color-pallet-purple);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 5px;
+}
+.component1-icon {
+  fill: var(--dl-color-pallet-purple);
+  width: 27px;
+  height: 39px;
+  margin-left: 10px;
+}
+.component1-root-class-name {
+  align-self: center;
+}
+.component1-root-class-name1 {
+  align-self: center;
+}
+.component1-root-class-name2 {
+  align-self: center;
+}
+.component1-root-class-name3 {
+  align-self: center;
+}
+.component1-root-class-name4 {
+  align-self: center;
+}
+.component1-root-class-name5 {
+  align-self: center;
+}

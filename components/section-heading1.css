@@ -1,0 +1,17 @@
+.section-heading1-section-heading {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.section-heading1-text {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.section-heading1-text1 {
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  line-height: 24px;
+}

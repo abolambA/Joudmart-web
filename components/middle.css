@@ -1,0 +1,60 @@
+.middle-middle {
+  width: 654px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.middle-text {
+  color: var(--dl-color-gray-black);
+  font-size: 15px;
+  font-style: normal;
+  font-family: "Jost";
+  font-weight: 700;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  letter-spacing: 0.02px;
+  text-transform: none;
+  text-decoration: none;
+}
+.middle-text1 {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  margin-right: var(--dl-space-space-oneandhalfunits);
+  background-color: #ffffff;
+}
+.middle-navlink {
+  display: contents;
+}
+.middle-image {
+  width: 82px;
+  height: 89px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.middle-right {
+  display: flex;
+  grid-gap: 45px;
+  align-items: flex-start;
+}
+.middle-text2 {
+  font-size: 15px;
+  align-self: center;
+  font-style: normal;
+  font-weight: 500;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.middle-text3 {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+@media(max-width: 991px) {
+  .middle-right {
+    display: none;
+  }
+}
