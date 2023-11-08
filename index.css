@@ -1281,11 +1281,12 @@
   justify-content: center;
 }
 .home-icon16 {
+  fill: var(--dl-color-pallet-green1);
   width: 24px;
   height: 24px;
 }
-.home-text094 {
-  text-align: center;
+.home-text093 {
+  color: var(--dl-color-pallet-purple);
 }
 .home-container24 {
   width: 1137px;
@@ -1297,7 +1298,7 @@
 }
 .home-container25 {
   top: 15px;
-  left: 700px;
+  left: 200px;
   right: 564px;
   width: 380px;
   bottom: -12px;
@@ -1306,6 +1307,7 @@
   position: absolute;
   align-self: flex-end;
   align-items: center;
+  margin-left: 700px;
   justify-content: center;
 }
 .home-services {
@@ -1318,7 +1320,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text095 {
+.home-text094 {
   font-size: 18px;
   font-style: normal;
   text-align: center;
@@ -1332,30 +1334,27 @@
   flex-direction: column;
   justify-content: center;
 }
+.home-text095 {
+  color: var(--dl-color-gray-black50);
+  margin-bottom: var(--dl-space-space-unit);
+}
 .home-text096 {
   color: var(--dl-color-gray-black50);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text097 {
-  color: var(--dl-color-gray-black50);
-  margin-bottom: var(--dl-space-space-unit);
-}
-.home-text100 {
+.home-text099 {
   color: var(--dl-color-gray-black50);
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-links-container {
-  left: 230px;
   width: 90px;
-  bottom: 3px;
   height: 273px;
   display: flex;
   grid-gap: var(--dl-space-space-threeunits);
-  position: absolute;
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-text101 {
+.home-text100 {
   font-size: 18px;
   font-style: normal;
   text-align: center;
@@ -1410,10 +1409,10 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text104 {
+.home-text103 {
   margin-bottom: 8px;
 }
-.home-text107 {
+.home-text106 {
   color: var(--dl-color-gray-black50);
   margin-top: var(--dl-space-space-oneandhalfunits);
 }
@@ -1805,7 +1804,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text095 {
+  .home-text094 {
     align-self: center;
     text-align: center;
   }
@@ -1818,14 +1817,14 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text101 {
+  .home-text100 {
     align-self: center;
   }
   .home-container27 {
     left: 30px;
     bottom: 77px;
   }
-  .home-text107 {
+  .home-text106 {
     color: var(--dl-color-gray-black50);
   }
 }
