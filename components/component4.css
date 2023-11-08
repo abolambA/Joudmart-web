@@ -1,0 +1,11 @@
+.component4-container {
+  display: flex;
+  position: relative;
+}
+.component4-button {
+  color: var(--dl-color-pallet-purple);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  border-width: 0px;
+}

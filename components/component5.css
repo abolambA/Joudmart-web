@@ -1,0 +1,13 @@
+.component5-container {
+  display: flex;
+  position: relative;
+}
+.component5-button {
+  color: var(--dl-color-pallet-purple);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 5px;
+}

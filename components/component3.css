@@ -1,4 +1,4 @@
-.app-component-container {
+.component3-container {
   width: 223px;
   height: 68px;
   display: flex;
@@ -11,15 +11,18 @@
   padding-right: 9px;
   justify-content: center;
 }
-.app-component-button {
+.component3-button {
   color: var(--dl-color-pallet-purple);
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
   border-width: 0px;
 }
-.app-component-icon {
+.component3-icon {
   fill: var(--dl-color-pallet-purple);
   width: 53px;
   height: 39px;
+}
+.component3-root-class-name {
+  align-self: center;
 }
