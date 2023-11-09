@@ -1,0 +1,14 @@
+.component12-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component12-icon {
+  fill: var(--dl-color-pallet-green1);
+  width: 24px;
+  height: 24px;
+}
+.component12-text {
+  color: var(--dl-color-pallet-purple);
+}

@@ -113,7 +113,6 @@
   font-weight: 700;
   margin-left: var(--dl-space-space-oneandhalfunits);
   margin-right: var(--dl-space-space-oneandhalfunits);
-  text-decoration: none;
 }
 .cart-screen-text03 {
   font-size: 15px;
@@ -124,11 +123,15 @@
 .cart-screen-icons {
   display: flex;
 }
+.cart-screen-navlink1 {
+  display: contents;
+}
 .cart-screen-icon {
   fill: var(--dl-color-pallet-green1);
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-oneandhalfunits);
+  text-decoration: none;
 }
 .cart-screen-icon02 {
   fill: var(--dl-color-pallet-purple);

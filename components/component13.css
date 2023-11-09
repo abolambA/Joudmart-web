@@ -1,0 +1,18 @@
+.component13-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component13-link {
+  color: var(--dl-color-gray-black50);
+  margin-top: var(--dl-space-space-twounits);
+  margin-bottom: 3px;
+  text-decoration: underline;
+}
+.component13-link1 {
+  color: var(--dl-color-gray-black50);
+  margin-top: 12px;
+  text-decoration: underline;
+}
