@@ -91,7 +91,7 @@
     flex-direction: column;
   }
 }
-@media(max-width: 479px) {
+@media(max-width: 390px) {
   .item-card-image {
     top: 0px;
     left: 0px;

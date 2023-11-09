@@ -30,7 +30,7 @@
     height: 250px;
   }
 }
-@media(max-width: 479px) {
+@media(max-width: 390px) {
   .category-card-category-card {
     width: 100%;
   }
